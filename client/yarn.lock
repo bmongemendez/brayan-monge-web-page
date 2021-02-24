@@ -9221,13 +9221,13 @@ react-native-extended-stylesheet@^0.12.0:
     css-mediaquery "^0.1.2"
     object-resolve-path "^1.1.0"
 
-react-particles-js@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/react-particles-js/-/react-particles-js-3.3.0.tgz#ecedd5b5c6b853bbf29a7e03ea2af898b8048091"
-  integrity sha512-pc9oJWEHH3UR1sJurL98TPrEWr0Yf2E8j+f8PLDpgbnQirTRqfwEvTRNJ/Ibvt6233WycCrndn6ImfL0PDEr7A==
+react-particles-js@^3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/react-particles-js/-/react-particles-js-3.4.1.tgz#e0f17ae1ddb07d01ce911448db76cd59726fe666"
+  integrity sha512-c3+vITUMN9RlgbERZYd9Kzvjmf49ENp07+9+NDLvE1Jf9euabrJi/q6gCCcv5foxGHBYjHnGs47Tusmrl0/+GQ==
   dependencies:
     lodash "^4.17.11"
-    tsparticles "^1.17.1"
+    tsparticles "^1.18.10"
 
 react-router-dom@^5.2.0:
   version "5.2.0"
@@ -10885,18 +10885,12 @@ tslib@^1.10.0, tslib@^1.8.1, tslib@^1.9.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.13.0.tgz#c881e13cc7015894ed914862d276436fa9a47043"
   integrity sha512-i/6DQjL8Xf3be4K/E6Wgpekn5Qasl1usyw++dAA35Ue5orEn65VIxOA+YvNNl9HV3qv70T7CNwjODHZrLwvd1Q==
 
-tslib@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.1.tgz#410eb0d113e5b6356490eec749603725b021b43e"
-  integrity sha512-SgIkNheinmEBgx1IUNirK0TUD4X9yjjBRTqqjggWCU3pUEqIk3/Uwl3yRixYKT6WjQuGiwDv4NomL3wqRCj+CQ==
-
-tsparticles@^1.17.1:
-  version "1.17.10"
-  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.17.10.tgz#ba8392f09531d57f1261ecb528593e89883c6b9a"
-  integrity sha512-ZPadfL/zcXwTASwdQ6G/hAaabkzXBcV7FGtdeAa92GsoHgUexgpGwlMK9HI9yCQxDvigOaa2Y6A3jEDGXiNOXA==
-  dependencies:
+tsparticles@^1.18.10:
+  version "1.18.12"
+  resolved "https://registry.yarnpkg.com/tsparticles/-/tsparticles-1.18.12.tgz#b6fb441c90b99ab1177c7db2ac9b09e9c24d9ca1"
+  integrity sha512-7WY31HckCzzaiuudQlIeCE3Y5C4AslnJsuM/aeSDMErx7p7GjXzfUIO5qpzwyoJ7KRNURxIhADTXSDEtqkJFxw==
+  optionalDependencies:
     pathseg "^1.2.0"
-    tslib "^2.0.0"
 
 tsutils@^3.17.1:
   version "3.17.1"
